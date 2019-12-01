@@ -1,0 +1,2 @@
+October 24 2018
+Fixed a bug in the calculation of OLR anomalies from forecast. This improves correlation skill at short leads, but has little affect on longer leads. 
